@@ -1,6 +1,6 @@
 -  Hi, I’m @Luidger
 -  I’m interested in football, MMA, games and food
--  I’m currently learning computer science, software developing and data analyse
+-  I’m currently learning computer science, software developing and data analysis
 
 
 <!---
